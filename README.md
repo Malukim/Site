@@ -7,6 +7,8 @@
     body {
       margin: 0;
       padding: 0;
+      background-color: rgb(226, 95, 187);
+      color: black;
       font-family: 'Comic Sans MS', cursive;
       background-image: url(download\ \(1\).jpeg);
       background-size: cover;
