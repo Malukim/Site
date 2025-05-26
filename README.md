@@ -3,6 +3,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Para meu Solzinho</title>
+  <link rel="icon" href="vhope1.jpeg" type="image / icon-x"> 
   <style>
     body {
       margin: 0;
